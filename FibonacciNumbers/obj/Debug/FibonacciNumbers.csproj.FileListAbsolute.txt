@@ -1,0 +1,7 @@
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\George Kalokiris\source\repos\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
